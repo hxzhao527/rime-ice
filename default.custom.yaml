@@ -1,0 +1,4 @@
+patch:
+  "switcher/hotkeys":
+    - F4
+  "menu/page_size": 6
